@@ -23,4 +23,4 @@ b)	mvn compile
     -   Description: Provide the top texts which has the highest counts. If the path variable is not passed or incorrect value is passed, API will give 400 (Bad Request) error.
     
 **Error Handling**
-   -   Counter App handles all major Exceptions including Runtime Exception’s. We have a customized ErrorResponse object which we return to the consumers of the APIs.
+   -   Counter App handles all major Exceptions including Runtime Exception’s. We have a customized **ErrorResponse** object which we return to the consumers of the APIs.
